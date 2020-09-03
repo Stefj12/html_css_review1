@@ -1,0 +1,18 @@
+#container{
+    position: relative;
+    margin: auto;
+    width: 75%;
+    border: 5px dashed salmon;
+}
+img{
+    width: 100%;
+}
+#title{
+position: absolute;
+bottom: 0; width: 100%;
+text-align: center;
+}
+#close{
+    position: absolute; 
+    right: 0;   
+}
